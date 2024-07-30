@@ -59,7 +59,7 @@
               <td>schedule</td>
             </tr>
             <tr>
-              <td><a href="https://github.com/doraeven/kafka-server">samba-server</a></td>
+              <td><a href="https://github.com/doraeven/samba-server">samba-server</a></td>
               <td>Provide samba file server.</td>
               <td>schedule</td>
             </tr>
