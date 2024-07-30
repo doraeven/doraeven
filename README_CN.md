@@ -12,7 +12,7 @@
         <a href="https://github.com/doraeven/doraeven/blob/main/README_CN.md"><span>中文</span></a>
       </p>
       <p>🌱 我们目前正致力于构建分布式系统基础设施服务。 🌱</p>
-      <h4 align="left">Base-Java-Commons （基础-java-公共组件）</h4>
+      <h4 align="left">Base-Java-Commons （基础-Java-公共组件）</h4>
       <div>
         <table>
           <thead>
@@ -25,7 +25,7 @@
           <tbody>
             <tr>
               <td><a href="https://github.com/doraeven/oss-parent">oss-parent</a></td>
-              <td>提供公共 OSS Parent pom.</td>
+              <td>提供公共 OSS Parent pom。</td>
               <td>release</td>
             </tr>
             <tr>
