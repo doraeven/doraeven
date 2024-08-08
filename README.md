@@ -55,12 +55,17 @@
           <tbody>
             <tr>
               <td><a href="https://github.com/doraeven/kafka-server">kafka-server</a></td>
-              <td>Provide Kafka server packages.</td>
-              <td>schedule</td>
+              <td>Provide kafka server packages.</td>
+              <td>release</td>
             </tr>
             <tr>
               <td><a href="https://github.com/doraeven/samba-server">samba-server</a></td>
               <td>Provide samba file server.</td>
+              <td>schedule</td>
+            </tr>
+            <tr>
+              <td><a href="https://github.com/doraeven/svn-server">svn-server</a></td>
+              <td>Provide svn server.</td>
               <td>schedule</td>
             </tr>
           </tbody>
