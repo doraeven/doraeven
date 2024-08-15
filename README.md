@@ -104,7 +104,7 @@
           <tbody>
             <tr>
               <td><a href="https://github.com/doraeven/kafka-server">kafka-server</a></td>
-              <td>Package Apache Kafka as RPM and DEB. New 3.8.1, 3.7.1.</td>
+              <td>Package Apache Kafka as RPM and DEB. New 3.8.0, 3.7.1.</td>
               <td>release</td>
             </tr>
           </tbody>
