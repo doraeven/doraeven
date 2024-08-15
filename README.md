@@ -54,18 +54,33 @@
           </thead>
           <tbody>
             <tr>
-              <td><a href="https://github.com/doraeven/kafka-server">kafka-server</a></td>
-              <td>Provide kafka server packages.</td>
-              <td>release</td>
+              <td><a href="https://github.com/doraeven/base-infrastructure-servers/kafka-server">kafka-server</a></td>
+              <td>Provide kafka stream server</td>
+              <td>schedule</td>
             </tr>
             <tr>
-              <td><a href="https://github.com/doraeven/samba-server">samba-server</a></td>
+              <td><a href="https://github.com/doraeven/base-infrastructure-servers/samba-server">samba-server</a></td>
               <td>Provide samba file server.</td>
               <td>schedule</td>
             </tr>
             <tr>
-              <td><a href="https://github.com/doraeven/svn-server">svn-server</a></td>
+              <td><a href="https://github.com/doraeven/base-infrastructure-servers/svn-server">svn-server</a></td>
               <td>Provide svn server.</td>
+              <td>schedule</td>
+            </tr>
+            <tr>
+              <td><a href="https://github.com/doraeven/base-infrastructure-servers/mariadb-server">mariadb-server</a></td>
+              <td>Provide mariadb server.</td>
+              <td>schedule</td>
+            </tr>
+            <tr>
+              <td><a href="https://github.com/doraeven/base-infrastructure-servers/redis-server">redis-server</a></td>
+              <td>Provide redis server.</td>
+              <td>schedule</td>
+            </tr>
+            <tr>
+              <td><a href="https://github.com/doraeven/base-infrastructure-servers/mysql-server">mysql-server</a></td>
+              <td>Provide mysql server.</td>
               <td>schedule</td>
             </tr>
           </tbody>
