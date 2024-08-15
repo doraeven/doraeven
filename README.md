@@ -12,6 +12,7 @@
         <a href="https://github.com/doraeven/doraeven/blob/main/README_CN.md"><span>中文</span></a>
       </p>
       <p>🌱 We are currently working on building distributed system infrastructure services. 🌱</p>
+      <!-- Base-Java-Commons -->
       <h4 align="left">Base-Java-Commons</h4>
       <div>
         <table>
@@ -42,6 +43,8 @@
         </table>
       </div>
       <div><br></div>
+      <!-- // end Base-Java-Commons -->
+      <!-- Base-Infrastructure-Servers -->
       <h4 align="left">Base-Infrastructure-Servers</h4>
       <div>
         <table>
@@ -86,6 +89,29 @@
           </tbody>
         </table>
       </div>
+      <!-- // end Base-Infrastructure-Servers -->
+      <!-- Extend-Misc-Project -->
+      <h4 align="left">Extend-Misc-Project</h4>
+      <div>
+        <table>
+          <thead>
+            <tr>
+              <th>module</th>
+              <th>description</th>
+              <th>status</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><a href="https://github.com/doraeven/kafka-server">kafka-server</a></td>
+              <td>Package Apache Kafka as RPM and DEB. New 3.8.1, 3.7.1</td>
+              <td>release</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div><br></div>
+      <!-- // end Extend-Misc-Project -->
     </div>
   </body>
 </html>
