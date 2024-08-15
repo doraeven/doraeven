@@ -58,7 +58,7 @@
           <tbody>
             <tr>
               <td><a href="https://github.com/doraeven/base-infrastructure-servers/kafka-server">kafka-server</a></td>
-              <td>Provide kafka stream server</td>
+              <td>Provide kafka stream server.</td>
               <td>schedule</td>
             </tr>
             <tr>
